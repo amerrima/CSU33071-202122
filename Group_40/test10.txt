@@ -1,0 +1,18 @@
+## Group 40
+
+## - Caolán Mac Giolla Phádraig
+## - Masanari Doi
+
+## Valid: YES
+
+## Description: Function return to variable with same type
+
+void main() {
+    int x;
+    x = function();
+    return;
+}
+
+int function() {
+    return 5;
+} 
