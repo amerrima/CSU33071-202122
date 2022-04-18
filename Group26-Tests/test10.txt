@@ -11,9 +11,13 @@ struct atom{
 }
 
 
-bool main(){
+void main(){
   atom d;
   d.b=10;
+   if(!true) then{
+     int x;
+     x=9;
+   }
 }
 
 int proton(){

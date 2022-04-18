@@ -9,7 +9,7 @@
 void main () { 
     int i;
     string x;
-    if ( i = 22 ) {
+    if ( i = 22 )then {
         x = "string";
     {
 }
