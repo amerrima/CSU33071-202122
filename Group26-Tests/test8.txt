@@ -14,7 +14,7 @@ bool main(){
  int c;
  c=3;
 
- if(a<b<c){
+ if(a<b<c) then{
  return true;
  }
 
