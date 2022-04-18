@@ -1,0 +1,12 @@
+## Group 40
+
+## - Caolán Mac Giolla Phádraig
+## - Masanari Doi
+
+## Valid: No
+
+## Description: Duplicate parameter identifiers
+
+void function(int x, int y, int y) {
+    printf("Hello World!");
+}

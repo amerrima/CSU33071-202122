@@ -1,0 +1,17 @@
+## Group 40
+
+## - Caolán Mac Giolla Phádraig
+## - Masanari Doi
+
+## Valid: YES
+
+## Description: Same variables declared in the same method but different scopes
+
+void main() {
+    {
+      int x;
+    }
+    {
+      int x;
+    }
+}

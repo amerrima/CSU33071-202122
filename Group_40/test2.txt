@@ -1,0 +1,12 @@
+## Group 40
+
+## - Caolán Mac Giolla Phádraig
+## - Masanari Doi
+
+## Valid: No
+
+## Description: for loop, we cannot use a++
+
+for(int a=0; a<5, a++){
+printf(a);
+}

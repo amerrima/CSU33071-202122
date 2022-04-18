@@ -1,0 +1,17 @@
+## Group 40
+
+## - Caolán Mac Giolla Phádraig
+## - Masanari Doi
+
+## Valid: YES
+
+## Description: if else inside for loop
+
+int y;
+int j;
+for (j = 0; j<5 ; j = j + 1;) {
+        if (j == 0) then
+            y = 1;
+        else
+            y = j;
+    }

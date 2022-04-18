@@ -1,0 +1,13 @@
+## Group 40
+
+## - Caolán Mac Giolla Phádraig
+## - Masanari Doi
+
+## Valid: NO
+
+## Description: Invalid boolean type
+
+int a = 1;
+if("true"){
+print(a);
+}

@@ -1,0 +1,12 @@
+## Group 40
+
+## - Caolán Mac Giolla Phádraig
+## - Masanari Doi
+
+## Valid: NO
+
+## Description: Integer cannot be converted to string
+
+int x;
+x = "D"
+printf(x);
