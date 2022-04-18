@@ -1,0 +1,14 @@
+## Group 40
+
+## - Caolán Mac Giolla Phádraig
+## - Masanari Doi
+
+## Valid: NO
+
+## Description: Undeclared struct usage in struct
+
+struct test  {
+    int x,
+    int y,
+    teste z
+}
