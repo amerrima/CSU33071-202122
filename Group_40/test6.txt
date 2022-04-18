@@ -1,0 +1,13 @@
+## Group 40
+
+## - Caolán Mac Giolla Phádraig
+## - Masanari Doi
+
+## Valid: NO
+
+## Description: Self referencing structs aren't allowed
+
+struct test {
+    int x,
+    test z
+}
