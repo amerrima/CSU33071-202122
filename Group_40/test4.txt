@@ -1,0 +1,15 @@
+## Group 40
+
+## - Caolán Mac Giolla Phádraig
+## - Masanari Doi
+
+## Valid: NO
+
+## Description: Same variables declared in the same method but one is in the nested scope of the other
+
+void main() {
+    int x;
+    {
+      int x;
+    }
+}
