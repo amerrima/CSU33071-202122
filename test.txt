@@ -3,7 +3,6 @@
 ## James Cowan
 ## Ailbhe Merriman
 
-## Valid - no
+## valid - yes
 
-int a;
-a = -567;
+printf "hello world";
