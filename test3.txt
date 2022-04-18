@@ -1,11 +1,16 @@
-## Group 22
+## Group 35
 
- ## - Sarah Dolan
- ## - Denisa Costinas
+## Ailbhe Merriman
+## James Cowan
 
- ## Valid: No
-
- ## Description: syntax error
+## Valid - no
 
 
-a < b < c
+int a;
+int b;
+
+a = 4;
+b = 5;
+c = 6;
+
+a + b - c = d
